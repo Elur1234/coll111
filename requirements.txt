@@ -1,4 +1,3 @@
 discord.py
-websockets
 aichttp
 chardet
